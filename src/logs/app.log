@@ -1,0 +1,30 @@
+2024-12-01 12:51:40,462 - ERROR - Error occurred while processing data: local variable 'results' referenced before assignment
+2024-12-01 12:52:15,221 - ERROR - Error occurred while processing data: [Errno 2] No such file or directory: '/home/abraao284/Desktop/Faculdade/eng_data/projetos_outros/pokeapi/src/data/2024-12-01/50.json/50.json'
+2024-12-01 12:54:50,084 - ERROR - Error occurred while processing data: [Errno 2] No such file or directory: '/home/abraao284/Desktop/Faculdade/eng_data/projetos_outros/pokeapi/src/data/2024-12-01/50.json/50.json'
+2024-12-01 12:56:20,186 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=50&limit=50
+2024-12-01 12:56:20,359 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=100&limit=50
+2024-12-01 12:56:20,408 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=150&limit=50
+2024-12-01 12:56:20,465 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=200&limit=50
+2024-12-01 12:56:20,519 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=250&limit=50
+2024-12-01 12:56:20,563 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=300&limit=50
+2024-12-01 12:56:20,759 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=350&limit=50
+2024-12-01 12:56:20,920 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=400&limit=50
+2024-12-01 12:56:21,115 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=450&limit=50
+2024-12-01 12:56:21,168 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=500&limit=50
+2024-12-01 12:56:21,223 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=550&limit=50
+2024-12-01 12:56:21,268 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=600&limit=50
+2024-12-01 12:56:21,322 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=650&limit=50
+2024-12-01 12:56:21,377 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=700&limit=50
+2024-12-01 12:56:21,434 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=750&limit=50
+2024-12-01 12:56:21,490 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=800&limit=50
+2024-12-01 12:56:21,689 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=850&limit=50
+2024-12-01 12:56:21,879 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=900&limit=50
+2024-12-01 12:56:21,928 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=950&limit=50
+2024-12-01 12:56:22,001 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=50
+2024-12-01 12:56:22,053 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=1050&limit=50
+2024-12-01 12:56:22,101 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=1100&limit=50
+2024-12-01 12:56:22,151 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=1150&limit=50
+2024-12-01 12:56:22,215 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=1200&limit=50
+2024-12-01 12:56:22,263 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=1250&limit=50
+2024-12-01 12:56:22,306 - INFO - Fetching next page: https://pokeapi.co/api/v2/pokemon/?offset=1300&limit=2
+2024-12-01 12:56:22,365 - INFO - No more pages to fetch. Exiting loop.

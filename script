@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir src/config
+touch src/config/api.conf
+echo -e "[api]\napi_url=https://pokeapi.co/api/v2/pokemon/?limit=" > src/config/api.conf
